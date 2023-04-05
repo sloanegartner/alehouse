@@ -2,7 +2,7 @@ $(window).scroll(function(){
     $scroll = $(window).scrollTop();
     
     if ($scroll > 0) {
-        $('#navbar').css('background', '#666362');
+        $('#navbar').css('background', '#2a0e07');
     } else {
         $('#navbar').css('background', 'Transparent');
     }
