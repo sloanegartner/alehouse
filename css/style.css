@@ -105,11 +105,11 @@ img
    transition: all 0.8s ease;
    font-weight: 600;
    border-bottom: 2px solid transparent;
-   color: #9A2A2A !important;
+   color: #666362;
 }
 
 .navbar-dark .navbar-nav .nav-link.active {
-   color: var(--brand) !important;
+   color: #9A2A2A;
 }
 
 .intro
@@ -174,7 +174,7 @@ footer a
 
 footer a:hover
 {
-	color: #666362;
+	color: #9A2A2A;
 }
 
 #review
